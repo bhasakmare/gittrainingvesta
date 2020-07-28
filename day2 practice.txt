@@ -300,3 +300,77 @@
   567  git merge mster
   568  git merge master
   569  clear
+  
+  569  clear
+  570  history
+  571  clear
+  572  ls
+  573  git add .
+  574  ls
+  575  git commit -m "adding more lines to day2 practice"
+  576  git log
+  577  clear
+  578  git log --oneline
+  579  git checkout master
+  580  ls
+  581  vi 7.txt
+  582  git add .;git commit -m"adding"
+  583  git status
+  584  git checkout br1
+  585  git add .;git commit -m"adding"
+  586  clear
+  587  git checkout master
+  588  git merge br1
+  589  git status
+  590  vi 7.txt
+  591  git status
+  592  clear
+  593  git add .;git commit -m "editing"
+  594  git status
+  595  git merge br1
+  596  git status
+  597  touch clean.txt clean1.txt
+  598  ls
+  599  git status
+  600  clear
+  601  ls
+  602  git status
+  603  git clean -f -d
+  604  git status
+  605  git status
+  606  clear
+  607  touch clean.txt clean1.txt
+  608  git status
+  609  git clean -f -d clean.txt
+  610  git status
+  611  history
+  612  clear
+  613  git status
+  614  history
+  615  clear
+  616  ls
+  617  git status
+  618  touch reset.txt
+  619  clear
+  620  git status
+  621  git add .
+  622  git status
+  623  git reset
+  624  gitstatus
+  625  git status
+  626  git clean -f -d
+  627  git log
+  628  git log --oneline
+  629  git log --oneline
+  630  clear
+  631  touch good.txt;git add .;git commit -m"assing good commit"
+  632  touch bad.txt;git add .;git commit -m"assing bad commit"
+  633  clear
+  634  git log --oneline
+  635  clear
+  636  git log --oneline -n 5
+  637  git diff 20418b4 b17e452
+  638  git revert b17e452
+  639  clear
+  640  git log --oneline -n 5
+  641  git diff 20418b4 b17e452
