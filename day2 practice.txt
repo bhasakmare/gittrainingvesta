@@ -264,3 +264,39 @@
   532  git merge br1
   533  git log --oneline
   534  history
+
+  535  git log --oneline
+  536  git add.
+  537  git add .
+  538  git commit -m"adding day2 practice"
+  539  git merge master
+  540  git checkout br1
+  541  git merge master
+  542  git log --oneline
+  543  git push origin master
+  544  git checkout br1
+  545  clear
+  546  git log --oneline
+  547  touch 7.txt;git add .;git commit -m"adding 7"
+  548* touch 8.txt;git add .;git commit -m"adding 9"
+  549  touch 9.txt;git add .;git commit -m"adding 9"
+  550  touch 10.txt;git add .;git commit -m"adding 10"
+  551  clear
+  552  git log --oneline
+  553  git diff master
+  554  git checkout master
+  555  clear
+  556  git checkout br1
+  557  git log --oneline
+  558  git checkout master
+  559  git cherry-pick a85771d
+  560  ls
+  561  git log --oneline
+  562  git checkout br1
+  563  git log --oneline
+  564  git cherry-pick 92d670d
+  565  git log --oneline
+  566  git checkout master
+  567  git merge mster
+  568  git merge master
+  569  clear
