@@ -1,0 +1,266 @@
+  269  pwd
+  270  mkdir vestas
+  271  pwd
+  272  cd
+  273  mkdir vestas
+  274  sd vestas/
+  275  cd vestas/
+  276  mkdir repo1
+  277  ls
+  278  clear
+  279  cd repo1/
+  280  pwd
+  281  git init
+  282  start
+  283  touch file1.txt
+  284  touch file.css
+  285  touch file2.js
+  286  git config user.name "Bhaskar Marepalli"
+  287  git config user.email "bhmar@vestas.com"
+  288  git config --
+  289  clear
+  290  git status
+  291  git add file.css
+  292  git status
+  293  git add .
+  294  git status
+  295  git commit -m "first code for demo"
+  296  git log
+  297  history
+  298  git log
+  299  git show 31884e7ae2a8ec8d67abdfd0863740a15bf97678
+  300  vi file.js
+  301  cd vetas/
+  302  pwd
+  303  git log
+  304  touch file4.js
+  305  git status
+  306  gid add .
+  307  git status
+  308  git add .
+  309  git commit -m "second commit"
+  310  git log
+  311  gid show 115505786da6d1c3e73d6dc380527024cb07b80e
+  312  git show 115505786da6d1c3e73d6dc380527024cb07b80e
+  313  git status
+  314  git log
+  315  history
+  316  clear
+  317  git add file5.txt
+  318  pwd
+  319  touch file5.txt
+  320  git add .
+  321  git commit -m " adding new file"
+  322  vi file5.txt
+  323  git log
+  324  git status
+  325  git add.
+  326  git commit -m "updated line by vi command"
+  327  git status
+  328  git log
+  329  git status
+  330  git add file5.txt
+  331  git add .
+  332  git commit
+  333  pwd
+  334  cd repo1/
+  335  cd ..repo1/
+  336  pwd
+  337  cd vestas/repo1/
+  338  git status
+  339  cd .repo1/
+  340  git diff
+  341  git status -s
+  342  ls
+  343  git mv file.js file1.js
+  344  git status
+  345  git commit -m "rename a file"
+  346  git status
+  347  ls
+  348  mkdir bhr
+  349  ls
+  350  git status
+  351  touch src/file6.txt
+  352  touch bhr/file6.txt
+  353  ls
+  354  git add .
+  355  git status
+  356  git commit -m "adding new file to directory"
+  357  git status
+  358  ls
+  359  git mv file.css bhr/file.css
+  360  git status
+  361  git status
+  362  ls
+  363  start .
+  364  git rm file.js
+  365  git rm bhr/file.js
+  366  git status
+  367  ls
+  368  git rm file2.js
+  369  git status
+  370  git add .
+  371  git commit -m " deleted file and moved to another location"
+  372  ls
+  373  ls bhr
+  374  git log
+  375  cleae
+  376  clear
+  377  git lod --oneline
+  378  git log --oneline
+  379  git checkout 942716f
+  380  ls
+  381  git checkout 6b979d2
+  382  ls
+  383  git checkout master
+  384  git log --oneline
+  385  ls
+  386  vi file1.txt
+  387  git add .
+  388  git commit -m " changed file"
+  389  git status
+  390  ls
+  391  vi file1.txt
+  392  history
+  393  cd servicecost_old
+  394  cd ..
+  395  cd ../servicesoct_old
+  396  pwd
+  397  cd repo1
+  398  start .
+  399  git push https://github.com/bhasakmare/gittrainingvesta.git master
+  400  git push https://github.com/bhasakmare/gittrainingvesta.git master
+  401  git push https://github.com/bhasakmare/gittrainingvesta.git master
+  402  git push https://github.com/bhasakmare/gittrainingvesta.git master
+  403  git pull https://github.com/bhasakmare/gittrainingvesta master
+  404  git push https://github.com/bhasakmare/gittrainingvesta master
+  405  cd ../
+  406  cd user1
+  407  git push https://github.com/bhasakmare/gittrainingvesta master
+  408  pwd
+  409  git pull https://github.com/bhasakmare/gittrainingvesta.git master --allow-unrelated-histories
+  410  git push https://github.com/bhasakmare/gittrainingvesta.git master
+  411  git log --oneline
+  412  cd ..
+  413  cd user2
+  414  start .
+  415  cd repo1
+  416  git clone https://github.com/bhasakmare/gittrainingvesta.git master
+  417  touch text444.txt; add .;git commit -m "added new file "
+  418  git push https://github.com/bhasakmare/gittrainingvesta.git master
+  419  git pull https://github.com/bhasakmare/gittrainingvesta.git master
+  420  git push https://github.com/bhasakmare/gittrainingvesta.git master
+  421  cd ..
+  422  cd user1
+  423  git pull https://github.com/bhasakmare/gittrainingvesta.git master
+  424  git push https://github.com/bhasakmare/gittrainingvesta.git master
+  425  git remote add https://github.com/bhasakmare/gittrainingvesta.git user1
+  426  git pull remote master
+  427  git remote add origin https://github.com/bhasakmare/gittrainingvesta.git user1
+  428  git pull origin
+  429  git remote
+  430  git pull remote
+  431  git pull origin master
+  432  git remote add origin https://github.com/bhasakmare/gittrainingvesta.git u
+  433  git pull origin master
+  434  satrt .
+  435  start .
+  436  pwd
+  437  cd vestas
+  438  cd user1
+  439  cd ../
+  440  cd../
+  441  cd user1
+  442  pwd
+  443  git status
+  444  git log --oneline
+  445  cd repo1
+  446  cd ..
+  447  cd repo1
+  448  pwd
+  449  git log --oneline
+  450  cd repo1
+  451  pwd
+  452  start .
+  453  cd vestas
+  454  pwd
+  455  cd vestas
+  456  cd repo1
+  457  start .
+  458  cd master
+  459  git log --oneline
+  460  cd ..
+  461  git log --oneline
+  462  git branch -a
+  463  clear
+  464  bit branch fea1
+  465  git branch fea1
+  466  git branch -a
+  467  git checkout fea1
+  468  git branch -a
+  469  clear
+  470  git log --oneline
+  471  touch fea1.txt;git add .;git commit -m "adding fea1"
+  472  cd master
+  473  git log --oneline
+  474  git branch -a
+  475  git checkout br1
+  476  git branch br1
+  477  git checkout br1
+  478  clear
+  479  touch fea1.txt;git add .; git commit -m " adding new file"
+  480  git log --oneline
+  481  ls
+  482  git checkout master
+  483  ls
+  484  clear
+  485  git checkout br1
+  486  more fea1.txt
+  487  cat fea1.txt
+  488  clear
+  489  clear
+  490  ls
+  491  touch fea2.txt;git add .;git commit -m"adding fea2"
+  492  git log --oneline
+  493  git diff master
+  494  git show head
+  495  git show head~1
+  496  git log --oneline
+  497  git checkout br1
+  498  clear
+  499  git log --oneline
+  500  ls
+  501  clear
+  502  touch fea3.txt; git add .;git commit -m "adding fea3"
+  503  git log --oneline
+  504  clear
+  505  git merge master
+  506  git checkout master
+  507  clear
+  508  git log --oneline
+  509  git diff br1
+  510  git merge br1
+  511  git log --online
+  512  git log --oneline
+  513  git branch -a
+  514  clear
+  515  git log --oneline
+  516  clear
+  517  ls
+  518  touch 1.txt;git add .;git commit -m"adding 1"
+  519  git checkout br1
+  520  touch 2.txt;git add .;git commit -m"adding 2"
+  521  touch 3.txt;git add .;git commit -m"adding 3"
+  522  git checkout master
+  523  touch 4.txt;git add .;git commit -m"adding 4"
+  524  touch 5.txt;git add .;git commit -m"adding 5"
+  525  clear
+  526  git checkout br1
+  527  touch 6.txt;git add .;git commit -m"adding 6"
+  528  git log --oneline
+  529  git checkout master
+  530  git log --oneline
+  531  clear
+  532  git merge br1
+  533  git log --oneline
+  534  history
